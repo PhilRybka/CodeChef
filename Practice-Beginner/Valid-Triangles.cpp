@@ -12,7 +12,6 @@ int main(){
         cin>>a>>b>>c;
         if(valid(a,b,c)) cout<<"YES"<<endl;
         else cout<<"NO"<<endl;
-        cin.ignore();
     
     }
 } 
